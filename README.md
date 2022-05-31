@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @Joao8bit
-- 👀 I’m interested in Cybersecurity and music!
-- 🌱 I’m currently taking a Computer Science bachelor.
-- 💞️ I’m looking to collaborate on important open source projects.
-- 📫 You can reach me via my personal e-mail: jpteigao@protonmail.com
+# Hello there!
+ My name is João, you can reach me out in jpteigao@gmail.com
